@@ -1,0 +1,62 @@
+:root{
+    --color-active: #ff8800;
+    --color-background: #e1e2e3;
+    --color-dark: #333;
+    --color-letter: #585858;
+}
+
+*{
+ margin: 0;  
+ padding: 0; 
+ box-sizing: border-box;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+body{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: var(--color-letter);
+   background-color: var(--color-background);
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   max-width: 400px;
+   margin: 100px auto;
+ }
+
+ .dato-1{
+   color: var(--color-letter);
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 400px;
+   color: var(--color-letter);
+   background-color: var(--color-background);
+   
+
+  
+
+ 
+.cabello {
+   margin: auto;
+   text-decoration:none;
+   --color-background: #e1e2e3;
+   padding: 5px 5px;
+   w
+   background-color: var(--color-background);   
+*/}
+
+ .container-4{
+    display: flex;
+    flex-direction: column;
+   gap: 5px;
+  
+ }
+
+ .container-4 p{
+   margin: auto;
+    font-weight: 100px;
+    font-size: 15px;
+    margin-bottom: 20px;
+    color: var(--color-letter);
+ }
